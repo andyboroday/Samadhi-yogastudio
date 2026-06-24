@@ -1,6 +1,6 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import SectionBackground from '@/components/SectionBackground';
-import bg from '@/assets/backgrounds/schedule-3.jpg';
+import bg from '@/assets/backgrounds/schedule.jpg';
 
 
 export default function ScheduleSectionPreview() {
