@@ -1,13 +1,13 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import SectionBackground from '@/components/SectionBackground';
-import bg from '@/assets/backgrounds/classes-2.jpg';
-import hathaImg from '@/assets/classes/hatha1.jpg';
-import vinyasaImg from '@/assets/classes/vinyasa1.jpg';
-import yinImg from '@/assets/classes/yin1.jpg';
-import morningImg from '@/assets/classes/morning1.jpg';
-import meditationImg from '@/assets/classes/meditation1.jpg';
-import soundHealingImg from '@/assets/classes/sound-healing1.jpg';
+import bg from '@/assets/backgrounds/classes.jpg';
+import hathaImg from '@/assets/classes/hatha.jpg';
+import vinyasaImg from '@/assets/classes/vinyasa.jpg';
+import yinImg from '@/assets/classes/yin.jpg';
+import morningImg from '@/assets/classes/morning.jpg';
+import meditationImg from '@/assets/classes/meditation.jpg';
+import soundHealingImg from '@/assets/classes/sound-healing.jpg';
 
 const ClassesSection = () => {
   const { t } = useLanguage();
