@@ -30,7 +30,7 @@ const Header = () => {
           {/* LOGO */}
           <a href="#hero" className="flex items-center">
             <img
-              src={scrolled ? '/logo-darkfin.svg' : '/logo-lightfin.svg'}
+              src={scrolled ? '/logo-dark.svg' : '/logo-light.svg'}
               alt="Samadhi"
               className="h-[30px] w-auto"
             />
