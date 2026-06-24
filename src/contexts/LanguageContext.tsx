@@ -132,7 +132,7 @@ es: 'Practica yoga desde hace más de 15 años. Combina técnicas tradicionales 
     en: 'A certified instructor with international experience. Helps find a balance of strength and flexibility.',
     es: 'Profesor certificado con experiencia internacional. Ayuda a encontrar el equilibrio entre fuerza y flexibilidad.',
   },
-  'instructor3.name': { ru: 'Мэйлин Юэ', en: 'Meiling Yue', es: 'Meiling Yue' },
+  'instructor3.name': { ru: 'Мэйлин Тао', en: 'Meiling Tao', es: 'Meiling Tao' },
   'instructor3.spec': { ru: 'Инь-йога, Саунд-хилинг', en: 'Yin Yoga, Sound Healing', es: 'Yin Yoga, Sanación con sonido' },
   'instructor3.desc': {
     ru: 'Специализируется на мягких практиках. Создаёт атмосферу принятия и заботы на каждом занятии.',
