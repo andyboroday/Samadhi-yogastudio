@@ -2,7 +2,7 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { MapPin, Phone } from 'lucide-react';
-import bg from '@/assets/backgrounds/contacts-3.jpg';
+import bg from '@/assets/backgrounds/contacts.jpg';
 import SectionBackground from '@/components/SectionBackground';
 
 const ContactsSection = () => {
