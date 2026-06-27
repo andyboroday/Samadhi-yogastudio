@@ -11,7 +11,7 @@ const Footer = () => {
             {t('footer.copyright')}
           </p>
 
-          <a href="#" className="cta-btn cta-btn-footer cta-btn-footer-color">
+          <a href="https://andresensonador.com/" className="cta-btn cta-btn-footer cta-btn-footer-color" target="_blank" rel="noopener noreferrer">
             Designed by Andres Ensonador
           </a>
         </div>
