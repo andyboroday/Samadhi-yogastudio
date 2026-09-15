@@ -29,13 +29,13 @@ const ContactsSection = () => {
             </div>
             
  <div className="bg-[#f5f1eb] border border-[#d8d2c8] rounded-2xl h-64 overflow-hidden">
-  <iframe
-    src="https://www.google.com/maps?q=48.877950,38.105800&z=16&output=embed"
-    className="w-full h-full border-0"
-    loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"
-    allowFullScreen
-  />
+ <iframe
+  src="https://www.google.com/maps?q=39.4699,-0.3763&z=16&output=embed"
+  className="w-full h-full border-0"
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  allowFullScreen
+/>
 </div>
           </div>
 
