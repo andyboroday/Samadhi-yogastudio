@@ -225,7 +225,7 @@ es: 'Practica yoga desde hace más de 15 años. Combina técnicas tradicionales 
 
   // Contacts
   'contacts.title': { ru: 'Контакты', en: 'Contacts', es: 'Contacto' },
-  'contacts.address': { ru: 'Северск, ул. Северная, 1', en: 'Seversk, Severnaya St., 1', es: 'Seversk, calle Severnaya, 1' },
+  'contacts.address': { ru: 'Валенсия, улица Ла-Пас, 24', en: 'Valencia, Calle de la Paz, 24', es: 'Valencia, Calle de la Paz, 24' },
   'contacts.phone': { ru: '+38 (066) 123-45-67', en: '+38 (066) 123-45-67', es: '+38 (066) 123-45-67' },
   'contacts.form.name': { ru: 'Ваше имя', en: 'Your name', es: 'Tu nombre' },
   'contacts.form.email': { ru: 'Email', en: 'Email', es: 'Correo electrónico' },
